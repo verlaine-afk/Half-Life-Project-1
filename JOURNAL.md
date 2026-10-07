@@ -12,4 +12,10 @@
 | --- | --- | --- | --- |
 | Week 1 | Tier 1 | 0h | 0 |
 
-_No entries logged yet._
+## October 5 — Built and Organized My KiCad Schematic
+I started this session by working on the schematic sketch for my Starbie project. My main goal was making sure to create the layout accurately while also learning how to use the program since it was my first time working on it. Using the guide for week 1, I worked on the ESP32 connections first, then added the DHT11 sensor, two push buttons, power connections, and ground connections. I also labeled the connections so I could keep track of which GPIO pins were being used.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c002d35-12f4-495c-a501-638113c0d630" />
+After going over it a few times, double checking my work and experimenting, I used my additional time to learning how to apply the footprints to the components. It took me a few tries but I was able to figure it out. During this progress I learned that its purpose was because the footprints determine how the physical components will be represented in the PCB.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/034d4485-dc0c-467e-8283-93b752794686" />
+**TL;DR:** I created the main electrical connections for my project in KiCad and started preparing the components for PCB design by applying their footprints.
+Total time Spent on this session: 54 Minutes
