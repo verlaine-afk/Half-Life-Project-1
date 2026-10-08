@@ -30,3 +30,17 @@ After going over it a few times, double checking my work and experimenting, I us
 [Timelapse](https://lookout.hackclub.com/api/media/4f3a8626-771b-4d2a-a054-7cfe390fded2/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/8c131f81-951e-4e87-87d5-8a40b34517c6/video.mp4)
+
+### October 7 Shaping, Routing, and Debugging my PCB
+
+For this session, my first step was making the shape for the board using a bat reference and adjusting the components so they would fit inside of it. Next, I worked on routing the PCB, starting with **F.Cu**. I learned that traces on the same copper layer cannot overlap each other, but F.Cu and B.Cu can cross because they are on opposite sides of the board. This saved me a lot of time since one challenge I had was connecting the traces without making them intersect with each other.
+<img width="548" height="287" alt="image" src="https://github.com/user-attachments/assets/d06b90f5-146e-4231-a29a-96b21224a92a" />
+After this, I worked on the GND pour using the Draw Filled Zones tool. During this process, I was also learning some KiCad shortcuts, such as **Ctrl + Shift + Z** for using the filled-zone tool.
+
+My final step was running the DRC (Design Rules Checker) to make sure everything was working as intended. There were some errors, so I went back and fixed them. This included rerouting some of the F.Cu and B.Cu traces because they were too close to other parts of the board.
+<img width="1707" height="774" alt="image" src="https://github.com/user-attachments/assets/4096013c-b711-4bc3-980e-ae003f2d5463" />
+
+
+**TL;DR:** I designed my Edge.Cuts shape, routed my PCB, added the GND pour, and used the DRC to find and fix problems.
+
+**Total time spent on this session: 2 Hours and 17 Minutes**
