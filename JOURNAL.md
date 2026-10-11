@@ -51,3 +51,18 @@ My final step was running the DRC (Design Rules Checker) to make sure everything
 [Timelapse](https://lookout.hackclub.com/api/media/5e80128f-a220-4f1c-bb95-2a35ec814ab7/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/e0750581-006a-4a2e-8506-411244f49181/video.mp4)
+
+October 8 — Arduino Setup
+Time spent: 34 minutes
+
+Today I started setting up the Arduino software for my project by adding the provided script and learning how the Arduino program works. I selected the XIAO ESP32C3 as the board I would be working with and installed the required ESP32 board packages.
+
+<img width="1122" height="305" alt="image" src="https://github.com/user-attachments/assets/b04496dd-860d-4603-a75e-a9ed42a420c4" />
+
+I also installed the libraries needed for the project: Adafruit GFX Library, Adafruit SSD1306, MPU6050, and DHT Sensor Library. While following the project guide, I learned how to find and install board packages and libraries, as well as how to use the different tools and settings in the Arduino IDE.
+<img width="1196" height="650" alt="image" src="https://github.com/user-attachments/assets/e1810b07-c980-4ce9-9b6a-563ff70beeee" />
+
+
+This setup gave me the software and libraries needed to continue working on the project and eventually test the provided code with the hardware.
+
+During this process, one fact I learned was that to actually upload the script, I needed the physical pcb board. I had spent like ten minutes offscreen trying to figure out why it wasn't initially working until I realized which I thought was a little funny.
