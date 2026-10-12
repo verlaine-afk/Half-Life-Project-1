@@ -19,7 +19,7 @@
 | [Tacticile Push Buttons](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TS01-66-73-BK-160-D/15634280?s=N4IgTCBcDaICoGUAMBGAtANg2g7AZjQCEBpNFDJNAERAF0BfIA) | Manual Tactile input buttons (SW1 and SW2) | 2 | $0.14 | $0.28 | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TS01-66-73-BK-160-D/15634280?s=N4IgTCBcDaICoGUAMBGAtANg2g7AZjQCEBpNFDJNAERAF0BfIA) |
 | [Custom Board Manufacture](https://jlcpcb.com/) | Product shipping of 5x physical circuit boards | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$12.92** | — |
-| **Tax & shipping** | — | — | — | **$8.00** | — |
-| **Total** | — | — | — | **$20.92** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$12.92** | — |
 
-$9.08 left of the tier's funding.
+$17.08 left of the tier's funding.
