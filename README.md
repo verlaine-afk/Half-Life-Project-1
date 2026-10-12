@@ -37,3 +37,28 @@ Test it with the actual ESP32
 Test the code on the hardware
 Fix anything that doesn’t work
 Add more features if I have time
+
+Schematic Sketch:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed94ef5b-b3a1-4087-909a-9c3d428b6f12" />
+
+PCB design:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6edbbeea-3b32-4d3d-bcb9-019eb2c5034f" />
+
+3D View:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da5943ed-0341-4da2-afa2-ca25f0875b81" />
+
+Examples of codes I added myself:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1d1de24-8874-46b0-9801-fd9bf091394d" />
+
+Art I made:
+<img width="32" height="32" alt="pixilart-drawing (1)" src="https://github.com/user-attachments/assets/c38c318c-67e5-4f20-b779-e87ac60fcc49" />
+<img width="32" height="32" alt="pixilart-drawing (2)" src="https://github.com/user-attachments/assets/670d15d1-152f-4be6-8496-8d05f2272549" />
+<img width="32" height="32" alt="pixilart-drawing" src="https://github.com/user-attachments/assets/f8b903a8-019e-42b5-a50f-ff73d416bcf1" />
+<img width="32" height="32" alt="pixilart-drawing (3)" src="https://github.com/user-attachments/assets/f155d7ee-576b-47e9-986c-747161986983" />
+<img width="32" height="32" alt="pixilart-drawing (4)" src="https://github.com/user-attachments/assets/c4cd5a6d-5e39-4b3a-8da3-f9ac42668da3" />
+
+
+
+
+
+
