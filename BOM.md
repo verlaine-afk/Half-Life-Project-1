@@ -19,7 +19,7 @@
 | [Tacticile Push Buttons](https://www.digikey.com/en/products/detail/apem-inc/MJTP1232D/1798053) | Manual Tactile input buttons (SW1 and SW2) | 1 | $0.50 | $0.50 | [DigiKey](https://www.digikey.com/en/products/detail/apem-inc/MJTP1232D/1798053) |
 | [Custom Board Manufacture](https://jlcpcb.com/) | Product shipping of 5x physical circuit boards | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$13.14** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.14** | — |
+| **Tax & shipping** | — | — | — | **$8.00** | — |
+| **Total** | — | — | — | **$21.14** | — |
 
-$16.86 left of the tier's funding.
+$8.86 left of the tier's funding.
